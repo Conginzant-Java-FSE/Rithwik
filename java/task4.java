@@ -1,3 +1,4 @@
+package java;
 abstract class Wizard{
     String name;
     int powerLevel;
